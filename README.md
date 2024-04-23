@@ -14,3 +14,4 @@
 3. Add feature, palette (color) to theme using features in theme: section
 4. Markdown Extension: plain-text file format for .md (hightlighting code,...)
 5. Add plugin in plugins: section (Notice: some plugin need to install more library via pip)
+6. Go to https://github.com/owner/repo/settings/pages and config branch to gh-pages root and save
